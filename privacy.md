@@ -1,18 +1,18 @@
 # Privacy Policy
 
-**Cadence — Study Companion**
+**Yune — Study Companion**
 
 _Last updated: 1 June 2026_
 
 ## The short version
 
-Cadence does not collect, transmit, sell, or share any of your personal data. Everything you create in the app — your study sessions, subjects, goals, assignments, streaks, and settings — stays **on your device**. There are no accounts, no sign-in, no analytics, no tracking, no advertising, and no third-party software development kits (SDKs). The app works entirely offline.
+Yune does not collect, transmit, sell, or share any of your personal data. Everything you create in the app — your study sessions, subjects, goals, assignments, streaks, and settings — stays **on your device**. There are no accounts, no sign-in, no analytics, no tracking, no advertising, and no third-party software development kits (SDKs). The app works entirely offline.
 
 This policy explains this in full.
 
 ## Who this applies to
 
-This policy applies to the Cadence iOS app (the "App") published by the developer ("we", "us"). If you do not agree with this policy, please do not use the App.
+This policy applies to the Yune iOS app (the "App") published by the developer ("we", "us"). If you do not agree with this policy, please do not use the App.
 
 ## Information we collect
 
@@ -41,8 +41,8 @@ This data is stored using Apple's standard on-device storage technologies (Swift
 
 ## Permissions the App may request
 
-- **Notifications** — If you allow them, the App schedules **local** notifications on your device to alert you when a focus or break phase ends. These are generated and delivered entirely by your device; nothing is sent to or through any server. You can change or revoke this permission at any time in iOS Settings → Notifications → Cadence.
-- **Live Activities / Dynamic Island** — The App can display your running timer on the Lock Screen and in the Dynamic Island using Apple's ActivityKit. This runs on-device and shares no data externally. You can disable Live Activities in iOS Settings → Cadence.
+- **Notifications** — If you allow them, the App schedules **local** notifications on your device to alert you when a focus or break phase ends. These are generated and delivered entirely by your device; nothing is sent to or through any server. You can change or revoke this permission at any time in iOS Settings → Notifications → Yune.
+- **Live Activities / Dynamic Island** — The App can display your running timer on the Lock Screen and in the Dynamic Island using Apple's ActivityKit. This runs on-device and shares no data externally. You can disable Live Activities in iOS Settings → Yune.
 
 The App does **not** request access to your contacts, photos, microphone, camera, location, or health data.
 

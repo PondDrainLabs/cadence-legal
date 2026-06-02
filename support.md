@@ -1,6 +1,6 @@
-# Cadence — Support
+# Yune — Support
 
-**Cadence** is a focus timer and study companion for iOS. Pick a subject, start a focus session, hit your daily goal, and keep your streak alive — with subjects, assignments, insights, and Lock Screen / Dynamic Island widgets.
+**Yune** is a focus timer and study companion for iOS. Pick a subject, start a focus session, hit your daily goal, and keep your streak alive — with subjects, assignments, insights, and Lock Screen / Dynamic Island widgets.
 
 _Last updated: 1 June 2026_
 
@@ -13,13 +13,13 @@ The fastest way to get help is by email:
 We aim to respond within **2–3 business days**. When reporting a problem, it helps to include:
 
 - Your device model (e.g. iPhone 15 Pro) and iOS version.
-- The app version (see iOS Settings → General → iPhone Storage → Cadence, or the App Store page).
+- The app version (see iOS Settings → General → iPhone Storage → Yune, or the App Store page).
 - A short description of what happened and what you expected, plus a screenshot if possible.
 
 ## Frequently asked questions
 
 ### How does the focus timer work?
-Choose your session length in Settings, pick the subject you're studying, and tap start. Cadence runs work and break phases and can auto-advance between them. The timer keeps perfect time even if you leave the app, lock your phone, or the app is closed — it's anchored to a target end time, not a counting clock.
+Choose your session length in Settings, pick the subject you're studying, and tap start. Yune runs work and break phases and can auto-advance between them. The timer keeps perfect time even if you leave the app, lock your phone, or the app is closed — it's anchored to a target end time, not a counting clock.
 
 ### What are subjects?
 Subjects let you track *what* you study. Create one with a name, color, and icon, and set an optional weekly goal. Pick your active subject on the Focus tab, and completed sessions are automatically attributed to it. Sessions with no subject are filed under "Unsorted."
@@ -41,13 +41,13 @@ Yes. On the Insights tab, tap the **+** button to manually log a session — cho
 On the Planner tab you can add assignments with a title, due date, and an estimated number of pomodoros. Assignments are grouped by Overdue / Today / Upcoming / Someday. Tap ▶ on an assignment to start a focus session linked to it, and your progress (completed vs. estimated pomodoros) fills in automatically.
 
 ### What do the widgets show?
-Cadence includes Home Screen widgets (small and medium) and Lock Screen widgets (circular, rectangular, and inline) that show your focus stats at a glance. While a timer is running, a Live Activity shows the countdown on your Lock Screen and in the Dynamic Island. Add widgets the usual way: long-press the Home or Lock Screen → add widget → Cadence.
+Yune includes Home Screen widgets (small and medium) and Lock Screen widgets (circular, rectangular, and inline) that show your focus stats at a glance. While a timer is running, a Live Activity shows the countdown on your Lock Screen and in the Dynamic Island. Add widgets the usual way: long-press the Home or Lock Screen → add widget → Yune.
 
 ### I'm not getting notifications.
-Make sure notifications are enabled in iOS Settings → Notifications → Cadence. Cadence uses **local** notifications to alert you when a phase ends; they are scheduled on your device. If you denied the permission during onboarding, you can re-enable it there.
+Make sure notifications are enabled in iOS Settings → Notifications → Yune. Yune uses **local** notifications to alert you when a phase ends; they are scheduled on your device. If you denied the permission during onboarding, you can re-enable it there.
 
 ### Is my data private? Where is it stored?
-All of your data — sessions, subjects, goals, assignments, and settings — is stored **only on your device**. Cadence has no accounts and sends nothing to the internet. See our [Privacy Policy](privacy.html) for full details.
+All of your data — sessions, subjects, goals, assignments, and settings — is stored **only on your device**. Yune has no accounts and sends nothing to the internet. See our [Privacy Policy](privacy.html) for full details.
 
 ### How do I delete my data?
 You can delete individual subjects, assignments, or sessions inside the app. To erase everything, delete the app from your device — that removes all stored data.
