@@ -46,6 +46,10 @@ This data is stored using Apple's standard on-device storage technologies (Swift
 
 The App does **not** request access to your contacts, photos, microphone, camera, location, or health data.
 
+## Purchases
+
+Yune offers an optional **Yune Premium** upgrade (subscription or one-time purchase). All purchases are processed entirely by Apple through the App Store. **We never see or receive your payment details**, and the App adds no purchase tracking of its own — your entitlement is checked privately on your device using Apple's StoreKit. Subscriptions can be managed or cancelled anytime in iOS Settings → Apple Account → Subscriptions.
+
 ## Device backups
 
 If you back up your device (for example, via iCloud Backup or a computer), your App data may be included in that backup as part of the normal iOS backup process. Those backups are created and controlled by Apple and governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/), not by us. We have no access to them.
